@@ -9,7 +9,7 @@ An illustration of applying the mutiny gem for mutation testing Ruby programs.
 > bundle install
 ```
 
-The demonstration program tests whether or not a string is palindromic (spelt the same forwards as backwards). Take a look at the [implementation]() and the [test cases]().
+The demonstration program tests whether or not a string is palindromic (spelt the same forwards as backwards). Take a look at the [implementation](https://github.com/mutiny/demo/blob/master/lib/demo/palindrome.rb) and the [test cases](https://github.com/mutiny/demo/blob/master/spec/demo/palindrome_spec.rb).
 
 ## Generating Mutants
 
