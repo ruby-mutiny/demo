@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "mutiny", "~> 0.2.7"
+gem "mutiny", "~> 0.2.8"
 gem "rspec", "~> 3.2.0"
 
 group :development do
